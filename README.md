@@ -1,5 +1,20 @@
 ### Hi there 👋
-### My Name is Shaik and I am currently working as Technical Advisor - Support for Azure Networking 
+My Name is Shaik and I am currently working as Technical Advisor - Support for Azure Networking 
+
+### Useful Github Repos
+Recommended GitHub repos to check out with relevant Azure Networking content:
+
+- https://github.com/erjosito 
+- https://github.com/dmauser
+- https://github.com/mddazure
+- https://github.com/Azure/azure-quickstart-templates
+- https://github.com/Shaikngit/terraform-provider-azurerm
+- https://github.com/jocortems/azurehybridnetworking
+- https://github.com/kpatnayakuni
+
+Linux LFCS
+
+- https://github.com/simonesavi/lfcs 
 
 
 <!--
