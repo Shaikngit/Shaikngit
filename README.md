@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My Name is Shaik and I am currently working as Technical Advisor - Support from Azure Networking 
+### My Name is Shaik and I am currently working as Technical Advisor - Support for Azure Networking 
 
 
 <!--
