@@ -21,6 +21,10 @@ Recommended GitHub repos to check out with relevant Azure Networking content:
  Windows VM with IIS Dsc extension
   
  - https://azure.microsoft.com/en-in/resources/templates/dsc-extension-iis-server-windows-vm/ 
+
+Linux VM with Web server
+
+- https://azure.microsoft.com/en-in/resources/templates/apache2-on-ubuntu-vm/ 
   
   
 
