@@ -8,7 +8,7 @@ Recommended GitHub repos to check out with relevant Azure Networking content:
 - https://github.com/dmauser
 - https://github.com/mddazure
 - https://github.com/Azure/azure-quickstart-templates
-- https://github.com/Shaikngit/terraform-provider-azurerm
+- https://github.com/hashicorp/terraform-provider-azurerm/tree/main/examples
 - https://github.com/jocortems/azurehybridnetworking
 - https://github.com/kpatnayakuni
 
