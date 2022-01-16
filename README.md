@@ -16,6 +16,13 @@ Linux LFCS
 
 - https://github.com/simonesavi/lfcs 
 
+### Deployments for labs <Directly drop from code>
+  
+ Windows VM with IIS Dsc extension
+  
+ - https://azure.microsoft.com/en-in/resources/templates/dsc-extension-iis-server-windows-vm/ 
+  
+  
 
 <!--
 **Shaikngit/Shaikngit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
