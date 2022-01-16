@@ -12,11 +12,11 @@ Recommended GitHub repos to check out with relevant Azure Networking content:
 - https://github.com/jocortems/azurehybridnetworking
 - https://github.com/kpatnayakuni
 
-Linux LFCS
+### Linux LFCS
 
 - https://github.com/simonesavi/lfcs 
 
-### Deployments for labs <Directly drop from code>
+### Deployments for labs 
   
  Windows VM with IIS Dsc extension
   
