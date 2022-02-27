@@ -11,6 +11,7 @@ Recommended GitHub repos to check out with relevant Azure Networking content:
 - https://github.com/hashicorp/terraform-provider-azurerm/tree/main/examples
 - https://github.com/jocortems/azurehybridnetworking
 - https://github.com/kpatnayakuni
+- https://github.com/pavangudiwada/terraform_practice
 
 ### Linux LFCS
 
